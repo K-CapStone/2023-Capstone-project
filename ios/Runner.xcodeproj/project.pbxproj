@@ -113,6 +113,7 @@
 			path = RunnerTests;
 			sourceTree = "<group>";
 		};
+<<<<<<< Updated upstream
 		6F780F2C7E295B7CB908CF69 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -120,6 +121,14 @@
 				4FC1A4EA9C6B4B93CAE44D1F /* Pods_RunnerTests.framework */,
 			);
 			name = Frameworks;
+=======
+		5E436C2E2A4D12D5006747BD /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				595A42716DDCC7EAEC87ACFB /* Pods_Runner.framework */,
+			);
+			name = "Recovered References";
+>>>>>>> Stashed changes
 			sourceTree = "<group>";
 		};
 		9740EEB11CF90186004384FC /* Flutter */ = {
@@ -143,6 +152,7 @@
 				C48996621AFD51C28EF2DFCA /* GoogleService-Info.plist */,
 				D39FCA93A48E9FA9ED98BB25 /* Pods */,
 				E6268D39BA68223E28353596 /* Frameworks */,
+				5E436C2E2A4D12D5006747BD /* Recovered References */,
 			);
 			sourceTree = "<group>";
 		};
@@ -180,7 +190,6 @@
 				24C6E6E2B7B7538C3E39E7D2 /* Pods-RunnerTests.release.xcconfig */,
 				33B9A7A7DF25C9A547FB19ED /* Pods-RunnerTests.profile.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
