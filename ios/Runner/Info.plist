@@ -29,6 +29,10 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
+<<<<<<< Updated upstream
+=======
+				<string>com.googleusercontent.apps.1015193375203-sstjrvj01v7b24s44pdp6lsv316g4uga</string>
+>>>>>>> Stashed changes
 				<string>kakao</string>
 				<string>e220d9e63fb4fc5ab03a24544579ea34</string>
 			</array>
@@ -58,8 +62,12 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
+<<<<<<< Updated upstream
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
+=======
+	<false/><key>LSApplicationQueriesSchemes</key>
+>>>>>>> Stashed changes
 	<array>
 		<!-- 카카오톡으로 로그인 -->
 		<string>kakaokompassauth</string>

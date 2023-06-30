@@ -164,9 +164,15 @@ class _LoginPageState extends State<LoginPage> {
                             onTap: () => AuthService().signInWithGoogle(),
                             imagePath: 'assets/googlelogin.jpg'),
                         SquareTile(
-                            onTap: () {}, imagePath: 'assets/kakaologin.jpg'),
+                            onTap: () {
+                              showErrorMessage("추후 v.1.0에 추가될 예정입니다.");
+                            },
+                            imagePath: 'assets/kakaologin.jpg'),
                         SquareTile(
-                            onTap: () {}, imagePath: 'assets/applelogin.jpg'),
+                            onTap: () {
+                              showErrorMessage("추후 v.1.0에 추가될 예정입니다.");
+                            },
+                            imagePath: 'assets/applelogin.jpg'),
                       ],
                     ),
                   ],
